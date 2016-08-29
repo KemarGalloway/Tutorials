@@ -1,0 +1,12 @@
+C:\Users\Kemar_G\Documents\Summer Code 2015\C sharp projects\ExceptionHandling_CS\ExceptionHandling_CS\bin\Debug\ExceptionHandling_CS.exe.config
+C:\Users\Kemar_G\Documents\Summer Code 2015\C sharp projects\ExceptionHandling_CS\ExceptionHandling_CS\bin\Debug\ExceptionHandling_CS.exe
+C:\Users\Kemar_G\Documents\Summer Code 2015\C sharp projects\ExceptionHandling_CS\ExceptionHandling_CS\bin\Debug\ExceptionHandling_CS.pdb
+C:\Users\Kemar_G\Documents\Summer Code 2015\C sharp projects\ExceptionHandling_CS\ExceptionHandling_CS\obj\Debug\ExceptionHandling_CS.csprojResolveAssemblyReference.cache
+C:\Users\Kemar_G\Documents\Summer Code 2015\C sharp projects\ExceptionHandling_CS\ExceptionHandling_CS\obj\Debug\ExceptionHandling_CS.exe
+C:\Users\Kemar_G\Documents\Summer Code 2015\C sharp projects\ExceptionHandling_CS\ExceptionHandling_CS\obj\Debug\ExceptionHandling_CS.pdb
+C:\Users\Kemar\Documents\Summer Code 2015\C sharp projects\ExceptionHandling_CS\ExceptionHandling_CS\bin\Debug\ExceptionHandling_CS.exe.config
+C:\Users\Kemar\Documents\Summer Code 2015\C sharp projects\ExceptionHandling_CS\ExceptionHandling_CS\obj\Debug\ExceptionHandling_CS.exe
+C:\Users\Kemar\Documents\Summer Code 2015\C sharp projects\ExceptionHandling_CS\ExceptionHandling_CS\obj\Debug\ExceptionHandling_CS.pdb
+C:\Users\Kemar\Documents\Summer Code 2015\C sharp projects\ExceptionHandling_CS\ExceptionHandling_CS\bin\Debug\ExceptionHandling_CS.exe
+C:\Users\Kemar\Documents\Summer Code 2015\C sharp projects\ExceptionHandling_CS\ExceptionHandling_CS\bin\Debug\ExceptionHandling_CS.pdb
+C:\Users\Kemar\Documents\Summer Code 2015\C sharp projects\ExceptionHandling_CS\ExceptionHandling_CS\obj\Debug\ExceptionHandling_CS.csprojResolveAssemblyReference.cache

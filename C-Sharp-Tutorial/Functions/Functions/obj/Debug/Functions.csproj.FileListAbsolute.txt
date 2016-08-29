@@ -1,0 +1,5 @@
+C:\Users\Kemar_G\Documents\Summer Code 2015\C sharp projects\Functions\Functions\bin\Debug\Functions.exe.config
+C:\Users\Kemar_G\Documents\Summer Code 2015\C sharp projects\Functions\Functions\bin\Debug\Functions.exe
+C:\Users\Kemar_G\Documents\Summer Code 2015\C sharp projects\Functions\Functions\bin\Debug\Functions.pdb
+C:\Users\Kemar_G\Documents\Summer Code 2015\C sharp projects\Functions\Functions\obj\Debug\Functions.exe
+C:\Users\Kemar_G\Documents\Summer Code 2015\C sharp projects\Functions\Functions\obj\Debug\Functions.pdb

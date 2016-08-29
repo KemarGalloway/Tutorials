@@ -1,0 +1,8 @@
+C:\Users\Kemar_G\Documents\Summer Code 2015\C sharp projects\ForEachLoopPart1\ForEachLoopPart1\bin\Debug\ForEachLoopPart1.exe.config
+C:\Users\Kemar_G\Documents\Summer Code 2015\C sharp projects\ForEachLoopPart1\ForEachLoopPart1\bin\Debug\ForEachLoopPart1.exe
+C:\Users\Kemar_G\Documents\Summer Code 2015\C sharp projects\ForEachLoopPart1\ForEachLoopPart1\bin\Debug\ForEachLoopPart1.pdb
+C:\Users\Kemar_G\Documents\Summer Code 2015\C sharp projects\ForEachLoopPart1\ForEachLoopPart1\obj\Debug\ForEachLoopPart1.exe
+C:\Users\Kemar_G\Documents\Summer Code 2015\C sharp projects\ForEachLoopPart1\ForEachLoopPart1\obj\Debug\ForEachLoopPart1.pdb
+C:\Users\New\Documents\Summer Code 2015\C sharp projects\ForEachLoopPart1\ForEachLoopPart1\bin\Debug\ForEachLoopPart1.exe.config
+C:\Users\New\Documents\Summer Code 2015\C sharp projects\ForEachLoopPart1\ForEachLoopPart1\obj\Debug\ForEachLoopPart1.exe
+C:\Users\New\Documents\Summer Code 2015\C sharp projects\ForEachLoopPart1\ForEachLoopPart1\obj\Debug\ForEachLoopPart1.pdb
